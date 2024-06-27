@@ -1,6 +1,6 @@
 # FMV Website
 
-# FMV's Background
+# FMV's Background ❔❔❔
 
     Management systems are crucial for companies to efficiently track transactions, record events, and maintain comprehensive activity records. Various types, like ERP, IMS, and HRMS, integrate multiple functions into a centralized platform, offering features like inventory management, payroll processing, CRM, and order tracking. These systems enhance overall performance, operational efficiency, and data accuracy. A study by Zgirskas et al. (2021) showed significant benefits for businesses adopting management systems, including improved product quality, fewer incidents, increased profitability, and better customer satisfaction.
 
