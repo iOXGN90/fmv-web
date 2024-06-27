@@ -1,5 +1,14 @@
-# fmv_web
-Fmv's Web
+# FMV Website
+
+# FMV's Background
+
+    Management systems are crucial for companies to efficiently track transactions, record events, and maintain comprehensive activity records. Various types, like ERP, IMS, and HRMS, integrate multiple functions into a centralized platform, offering features like inventory management, payroll processing, CRM, and order tracking. These systems enhance overall performance, operational efficiency, and data accuracy. A study by Zgirskas et al. (2021) showed significant benefits for businesses adopting management systems, including improved product quality, fewer incidents, increased profitability, and better customer satisfaction.
+
+    Francis Mar Vincent (FMV) Drilling Industries, owned by Wilmar Bucoo Indonto, provides plumbing services and supplies to government and private clients, handling up to 10 orders per week from 1252 items. Based in Cagayan de Oro City with a sub-branch in Bohol and 15 employees, FMV serves the Mindanao region using various transportation methods.
+
+    Currently, FMV relies on forms and spreadsheets for order processing, inventory management, and attendance monitoring, which are prone to human error and data loss. Clients submit purchase orders, which are manually entered into spreadsheets to request stock and generate invoices, delivery receipts, and official receipts. Attendance is tracked through daily staff signatures to calculate wages.
+
+    To address these issues, a proposed solution involves developing an integrated management system, including an inventory system and a mobile delivery application. This system aims to be user-friendly for FMV's admin and employees, who are not well-versed in technology. An inventory management system is vital for tracking stock levels and centralizing availability. Srivastava et al. (2020) highlighted problems like missing items and poor inventory control in businesses without such systems. The proposed mobile application will enable real-time tracking of inventory movement and status updates.
 
 ## Installation Steps
 
