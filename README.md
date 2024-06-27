@@ -87,13 +87,3 @@ Fmv's Web
     ├── tailwind.config.js
     └── .gitignore
 ```
-
-
-### Summary of Adjustments:
-1. Added bold formatting to the step titles for clarity.
-2. Moved the build CSS step to its own section for consistency.
-3. Updated the headings to be more consistent.
-4. Clarified the final step with a brief explanation.
-
-This should make your `README.md` easy to follow and understand. If you have any more specific requirements or need further adjustments, feel free to ask!
-
