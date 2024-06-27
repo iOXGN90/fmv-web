@@ -106,7 +106,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Landing Page</title>
-    <link href="css/styles.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet"> ///This will load the styles of the css that is found in the `pages/css/styles.css`
     </head>
     <body>
     <h1 class=" font-bold underline">
