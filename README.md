@@ -87,7 +87,6 @@ Fmv's Web
 
 After it is completed, you also need to run: 
 
-    ```sh
     npx postcss src/css/styles.css -o pages/css/styles.css
-    ```
+    
 It is to load and initialize the design to the project.
