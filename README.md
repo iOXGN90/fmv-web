@@ -98,6 +98,7 @@
 ```
 
 # index.html 
+7. This is a sample to initiate the style:
 ```html
     <!DOCTYPE html>
     <html lang="en">
