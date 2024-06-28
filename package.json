@@ -3,13 +3,19 @@
   "version": "1.0.0",
   "scripts": {
     "build": "postcss src/css/styles.css -o pages/css/styles.css",
-    "watch": "postcss src/css/styles.css -o pages/css/styles.css --watch"
+    "watch:css": "postcss src/css/styles.css -o pages/css/styles.css --watch",
+    "watch:bs": "browser-sync start --config bs-config.js",
+    "watch": "concurrently \"npm run watch:css\" \"npm run watch:bs\"",
+    "start": "npm run watch"
+    
   },
   "devDependencies": {
     "tailwindcss": "^3.x.x",
     "postcss": "^8.x.x",
     "autoprefixer": "^10.x.x",
-    "postcss-cli": "^9.x.x"
+    "postcss-cli": "^9.x.x",
+    "concurrently": "^6.x.x",
+    "browser-sync": "^2.x.x",
+    "browser-sync-webpack-plugin": "^2.x.x"
   }
 }
-
