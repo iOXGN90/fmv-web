@@ -10,7 +10,7 @@
 
     To address these issues, a proposed solution involves developing an integrated management system, including an inventory system and a mobile delivery application. This system aims to be user-friendly for FMV's admin and employees, who are not well-versed in technology. An inventory management system is vital for tracking stock levels and centralizing availability. Srivastava et al. (2020) highlighted problems like missing items and poor inventory control in businesses without such systems. The proposed mobile application will enable real-time tracking of inventory movement and status updates.
 
-## Installation Steps
+## Installation Steps of `Tailwind`
 
 1. Initialize npm:
     ```sh
