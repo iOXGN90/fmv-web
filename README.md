@@ -128,7 +128,7 @@ Since sige man tag `npm run build` kada naay changes sa atong designs, naa koy l
     npm install -D browser-sync browser-sync-webpack-plugin
 ```
 
-2. Create a file, `bs-config.js` inside fmv_web/bs-config.js:
+2. Create a file, `bs-config.js` and inside fmv_web/bs-config.js:
 ```js
     module.exports = {
         proxy: "localhost:3000", // Adjust this to your local server address if needed
